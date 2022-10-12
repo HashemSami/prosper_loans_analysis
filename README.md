@@ -8,7 +8,11 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.\*.
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.\*. To install these libraries you will need to execute:
+
+```
+pip install -r requirements.txt
+```
 
 ## Project Motivation<a name="motivation"></a>
 
